@@ -1,3 +1,5 @@
+config firewall address
+
 edit Afghanistan
 set type geography
 set country "AF"
